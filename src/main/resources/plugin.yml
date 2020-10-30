@@ -1,0 +1,5 @@
+author: sizeJV
+main: com.sizejv.BlockIDs
+version: 1.0.0
+name: BlockIDs
+description: Replaces Item Lore with the ID (1.12.2 IDs)
